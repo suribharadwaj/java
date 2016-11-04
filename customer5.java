@@ -27,7 +27,7 @@ public class customer5 {
 			sum = sum+rating[i];
 		}
 		avg = sum/10;		
-		System.out.println(name + " " +avg);
+		System.out.println(avg);
 	}
 
 }
